@@ -1,0 +1,8 @@
+commad
+
+C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi
+python test.py --model data/s3fd_convert.pth --path data/test01.jpg
+python test.py --model data/s3fd_convert.pth --path  CAMERA
+conda activate pytorch_gpu
+
+cv2.imwrite('E:/photoface/1.png', imgshow[int(x1):int(x2),int(y1):int(y2),:])

@@ -1,0 +1,35 @@
+import java.io.File;/**
+*人脸识别登录调用face++接口
+*一般会有api key和api secret
+*/public class FaceTest {
+    public static final String URL = "要配置的url";
+    public static final String FILE_PATH = "D:/text.jpg";
+    public static void main(String[] args) {
+
+        RestTemplate restTemplate = new RestTemplate();
+
+        //设置请求头
+        HttpHeaders httpHeaders = new HttpHeaders();
+        MediaType mediaType = MediaType.parseMediaType("multipart/form-data");
+        httpHeaders.setContentType(mediaType);
+
+        /* 设置请求体 */
+        FileSystemResource fileSystemResource = new FileSystemResource(new File(FILE_PATH));
+        MultiValueMap<String, Object> form = new LinkedMultiValueMap<>();
+        form.add("image_best", fileSystemResource);
+        form.add("image_idcard",fileSystemResource);
+
+        //用httpEntity封装
+        HttpEntity<MultiValueMap<String, Object>> multiValueMapHttpEntity = new HttpEntity<>(form, httpHeaders);
+
+        String s = restTemplate.postForObject(URL, multiValueMapHttpEntity, String.class);
+        System.out.println(s);
+
+
+    }}
+
+
+
+
+248A58N3Q@68
+L5RG2B3

@@ -1,0 +1,559 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="Aspose.Words for .NET 15.1.0.0" />
+<title></title>
+</head>
+<body>
+	<div>
+		<img src="http://sxqfwl2015.6655.la:20002/CollegeThesis_dsj/resources/thesis/image001.gif" width="589"
+			height="147" alt=""
+			style="-aw-left-pos:9pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:7.8pt; -aw-wrap-type:none; margin-left:8.62pt; margin-top:7.42pt; position:absolute; z-index:10" />
+		<p
+			style="font-size:52pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:center; widows:0">
+			<span style="font-family:方正小标宋简体; font-size:52pt">毕业设计说明书</span>
+		</p>
+		<p
+			style="font-size:26pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:center; widows:0">
+			<span style="color:#0000ff; font-family:黑体; font-size:26pt">题目用一号黑体字，一行排</span>
+		</p>
+		<p
+			style="font-size:26pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:center; widows:0">
+			<span style="color:#0000ff; font-family:黑体; font-size:26pt">不下可排两行，居中。</span>
+		</p>
+		<p
+			style="font-size:18pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:center; text-indent:31.5pt; widows:0">
+			<span style="font-family:黑体; font-size:18pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:18pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:center; text-indent:31.5pt; widows:0">
+			<span style="font-family:黑体; font-size:18pt">&#xa0;</span>
+		</p>
+	</div>
+	<div style="text-align:center">
+			<table cellspacing="0" cellpadding="0"
+				style="border-collapse:collapse; margin:0 auto; width:396.6pt">
+				<tr style="height:35.45pt">
+					<td
+						style="padding-left:5.4pt; padding-right:5.4pt; vertical-align:bottom; width:102.9pt"><p
+							style="line-height:26pt; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+							<span style="font-family:宋体; font-size:16pt;">学生姓名：</span>
+						</p></td>
+					<td
+						style="border-bottom-color:#000000; border-bottom-style:solid; border-bottom-width:1pt; padding-left:5.4pt; padding-right:5.4pt; vertical-align:bottom; width:96.55pt"><p
+							style="line-height:26pt; margin:0pt 0pt 10pt; orphans:0; text-align:center; widows:0">
+							<span style="font-family:楷体_GB2312; font-size:16pt">
+							<img src="http://sxqfwl2015.6655.la:20002/CollegeThesis_dsj/resources/thesis/image002.gif" width="120" style="-aw-left-pos:288pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:none; margin-left:288pt; margin-top:0pt; position:absolute; z-index:2" /></span>
+						</p></td>
+					<td
+						style="padding-left:5.4pt; padding-right:5.4pt; vertical-align:bottom; width:50.85pt"><p
+							style="line-height:26pt; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+							<span style="font-family:宋体; font-size:16pt;">学号：</span>
+						</p></td>
+					<td
+						style="border-bottom-color:#000000; border-bottom-style:solid; border-bottom-width:1pt; padding-left:5.4pt; padding-right:5.4pt; vertical-align:bottom; width:96.55pt"><p
+							style="line-height:26pt; margin:0pt 0pt 10pt; orphans:0; text-align:center; widows:0">
+							<span style="font-family:楷体_GB2312; font-size:16pt">
+							<img src="http://sxqfwl2015.6655.la:20002/CollegeThesis_dsj/resources/thesis/image002.gif" width="120" style="-aw-left-pos:288pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:none; margin-left:288pt; margin-top:0pt; position:absolute; z-index:2" /></span>
+						</p></td>
+				</tr>
+				<tr style="height:35.45pt">
+					<td
+						style="padding-left:5.4pt; padding-right:5.4pt; vertical-align:bottom; width:102.9pt"><p
+							style="line-height:26pt; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+							<span style="font-family:宋体; font-size:16pt;">学院：</span>
+						</p></td>
+					<td colspan="3"
+						style="border-bottom-color:#000000; border-bottom-style:solid; border-bottom-width:1pt; padding-left:5.4pt; padding-right:5.4pt; vertical-align:bottom; width:272.1pt"><p
+							style="line-height:26pt; margin:0pt 0pt 10pt; orphans:0; text-align:center; widows:0">
+							<span style="font-family:楷体_GB2312; font-size:16pt">
+							<img src="http://sxqfwl2015.6655.la:20002/CollegeThesis_dsj/resources/thesis/image002.gif" width="120" style="-aw-left-pos:288pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:none; margin-left:288pt; margin-top:0pt; position:absolute; z-index:2" /></span>
+						</p></td>
+				</tr>
+				<tr style="height:35.45pt">
+					<td
+						style="padding-left:5.4pt; padding-right:5.4pt; vertical-align:bottom; width:102.9pt"><p
+							style="line-height:26pt; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+							<span style="font-family:宋体; font-size:16pt;">专业：</span>
+						</p></td>
+					<td colspan="3"
+						style="border-bottom-color:#000000; border-bottom-style:solid; border-bottom-width:1pt; padding-left:5.4pt; padding-right:5.4pt; vertical-align:bottom; width:272.1pt"><p
+							style="line-height:26pt; margin:0pt 0pt 10pt; orphans:0; text-align:center; widows:0">
+							<span style="font-family:楷体_GB2312; font-size:16pt">
+							<img src="http://sxqfwl2015.6655.la:20002/CollegeThesis_dsj/resources/thesis/image002.gif" width="120" style="-aw-left-pos:288pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:none; margin-left:288pt; margin-top:0pt; position:absolute; z-index:2" /></span>
+				</tr>
+				<tr style="height:35.45pt">
+					<td
+						style="padding-left:5.4pt; padding-right:5.4pt; vertical-align:bottom; width:102.9pt"><p
+							style="line-height:26pt; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+							<span style="font-family:宋体; font-size:16pt;">指导教师：</span>
+						</p></td>
+					<td colspan="3"
+						style="border-bottom-color:#000000; border-bottom-style:solid; border-bottom-width:1pt; border-top-color:#000000; border-top-style:solid; border-top-width:1pt; padding-left:5.4pt; padding-right:5.4pt; vertical-align:bottom; width:272.1pt"><p
+							style="line-height:26pt; margin:0pt 0pt 10pt; orphans:0; text-align:center; widows:0">
+							<span style="font-family:楷体_GB2312; font-size:16pt">
+							<img src="http://sxqfwl2015.6655.la:20002/CollegeThesis_dsj/resources/thesis/image003.gif" width="120" style="-aw-left-pos:288pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:none; margin-left:288pt; margin-top:0pt; position:absolute; z-index:2" /></span>
+						</p></td>
+				</tr>
+				<tr style="height:0pt">
+					<td style="width:113.7pt; border:none"></td>
+					<td style="width:107.35pt; border:none"></td>
+					<td style="width:63.65pt; border:none"></td>
+					<td style="width:111.9pt; border:none"></td>
+				</tr>
+			</table>
+		</div>
+	<div>
+		<p
+			style="font-size:18pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:center; text-indent:31.5pt; widows:0">
+			<span style="font-family:黑体; font-size:18pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:18pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:center; text-indent:31.5pt; widows:0">
+			<span style="font-family:黑体; font-size:18pt">年   月</span><span
+				style="color:#ff0000; font-family:黑体; font-size:18pt">（小二号居中）</span>
+		</p>
+		<p
+			style="font-size:10pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span style="font-family:Calibri; font-size:10pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:10pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span style="font-family:Calibri; font-size:10pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:14pt; line-height:150%; margin:7.8pt 0pt; orphans:0; text-align:center; widows:0">
+			<span style="font-family:黑体; font-size:14pt">  目   录  </span><span
+				style="color:#ff0000; font-family:黑体; font-size:14pt">（</span><span
+				style="color:#ff0000; font-family:黑体; font-size:14pt">4号</span><span
+				style="color:#ff0000; font-family:黑体; font-size:14pt">黑</span><span
+				style="color:#ff0000; font-family:黑体; font-size:14pt">体</span><span
+				style="color:#ff0000; font-family:黑体; font-size:14pt">，居中）</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:Calibri; font-size:12pt">1</span><span
+				style="font-family:宋体; font-size:12pt">  引言（</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">或绪论</span><span
+				style="font-family:宋体; font-size:12pt">）</span><span
+				style="color:#ff0000; font-family:宋体; font-size:12pt">（作为正文第1章，小</span><span
+				style="color:#ff0000; font-family:宋体; font-size:12pt">4号宋体，行距</span><span
+				style="color:#ff0000; font-family:宋体; font-size:12pt">1.5倍，下同</span><span
+				style="font-family:宋体; font-size:12pt">）</span><span
+				style="font-family:宋体; font-size:10.5pt">……… </span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">1</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:'Times New Roman'; font-size:12pt">2</span><span
+				style="font-family:宋体; font-size:12pt">  </span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">××××××
+			</span><span style="color:#ff0000; font-family:宋体; font-size:12pt">（正文第2章）</span><span
+				style="font-family:宋体; font-size:12pt">………………………………………………… </span><span
+				style="color:#ff0000; font-family:宋体; font-size:12pt">Y</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:'Times New Roman'; font-size:12pt">2.1
+			</span><span style="color:#0000ff; font-family:宋体; font-size:12pt">
+				×××××× </span><span style="color:#ff0000; font-family:宋体; font-size:12pt">（正文第2章第1条）
+			</span><span style="font-family:宋体; font-size:12pt">……………………………………… </span><span
+				style="color:#ff0000; font-family:宋体; font-size:12pt">Y</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:'Times New Roman'; font-size:12pt">2.1.1</span><span
+				style="font-family:'Times New Roman'; font-size:12pt">  </span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">××××××
+			</span><span style="color:#ff0000; font-family:宋体; font-size:12pt">（三级标题）
+			</span><span style="font-family:宋体; font-size:12pt">………………………………………</span><span
+				style="color:#ff0000; font-family:宋体; font-size:12pt"> Y </span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:'Times New Roman'; font-size:12pt">2.1.</span><span
+				style="font-family:'Times New Roman'; font-size:12pt">2  </span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">××××××
+			</span><span style="color:#ff0000; font-family:宋体; font-size:12pt">（三级标题）
+			</span><span style="font-family:宋体; font-size:12pt">………………………………………</span><span
+				style="color:#ff0000; font-family:宋体; font-size:12pt"> Y </span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:'Times New Roman'; font-size:12pt">2</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">.X
+				×××××× </span><span style="color:#ff0000; font-family:宋体; font-size:12pt">（正文第2章第X条）
+			</span><span style="font-family:宋体; font-size:12pt">………………………………………</span><span
+				style="color:#ff0000; font-family:宋体; font-size:12pt"> Y</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:'Times New Roman'; font-size:12pt">3
+			</span><span style="color:#0000ff; font-family:宋体; font-size:12pt">
+				×××××</span><span style="color:#ff0000; font-family:宋体; font-size:12pt">（正文第3章）</span><span
+				style="font-family:宋体; font-size:12pt"> ………………………………………………</span><span
+				style="color:#ff0000; font-family:宋体; font-size:12pt"> Y</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">………………………………………（略）</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">X 
+				×××××</span><span style="color:#ff0000; font-family:宋体; font-size:12pt">（正文第X章）</span><span
+				style="font-family:宋体; font-size:12pt">………………</span><span
+				style="font-family:宋体; font-size:12pt">…………</span><span
+				style="font-family:宋体; font-size:12pt">……………………………</span><span
+				style="color:#ff0000; font-family:宋体; font-size:12pt"> Y</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">X 
+			</span><span style="font-family:宋体; font-size:12pt">结论
+				……………………………………………………………………………</span><span
+				style="color:#ff0000; font-family:宋体; font-size:12pt"> Y</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:宋体; font-size:12pt">附录</span><span
+				style="font-family:'Times New Roman'; font-size:12pt">A </span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">
+				××××（必要时）</span><span style="font-family:宋体; font-size:12pt">
+				………………………………………………………</span><span
+				style="color:#ff0000; font-family:宋体; font-size:12pt"> Y</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:宋体; font-size:12pt">附录</span><span
+				style="font-family:'Times New Roman'; font-size:12pt">B </span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">
+				××××（必要时）</span><span style="font-family:宋体; font-size:12pt">
+				………………………………………………………</span><span
+				style="color:#ff0000; font-family:宋体; font-size:12pt"> Y</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:宋体; font-size:12pt">参考文献………………………………………………………………………………</span><span
+				style="color:#ff0000; font-family:宋体; font-size:12pt">Y</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:宋体; font-size:12pt">致谢
+				…………………………………………………………………………………</span><span
+				style="color:#ff0000; font-family:宋体; font-size:12pt"> Y</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:'Times New Roman'; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:'Times New Roman'; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:'Times New Roman'; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:'Times New Roman'; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:'Times New Roman'; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="font-family:'Times New Roman'; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:10.5pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:10.5pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:10.5pt">注：1.
+				目次中的内容一般按三级标题编写；</span>
+		</p>
+		<p
+			style="font-size:10.5pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:10.5pt">2．X、Y表示具体的阿拉伯数字；</span>
+		</p>
+		<p
+			style="font-size:10.5pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:10.5pt">3．</span><span
+				style="color:#0000ff; font-family:宋体; font-size:10.5pt; font-weight:bold">页脚</span><span
+				style="color:#0000ff; font-family:宋体; font-size:10.5pt">中的页码用罗马数字（Ⅰ、Ⅱ、Ⅲ、Ⅳ、Ⅴ</span><span
+				style="font-family:宋体; font-size:10.5pt">……</span><span
+				style="color:#0000ff; font-family:宋体; font-size:10.5pt">）表示。</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span
+				style="color:#0000ff; font-family:宋体; font-size:12pt; font-weight:bold">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:10pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span style="font-family:Calibri; font-size:10pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:10pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span style="font-family:Calibri; font-size:10pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:10pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span style="font-family:Calibri; font-size:10pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:10pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span style="font-family:Calibri; font-size:10pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:10pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span style="font-family:Calibri; font-size:10pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:10pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span style="font-family:Calibri; font-size:10pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:10pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span style="font-family:Calibri; font-size:10pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:10pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span style="font-family:Calibri; font-size:10pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:10pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span style="font-family:Calibri; font-size:10pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:15pt; line-height:150%; margin:7.8pt 0pt; orphans:0; padding-left:68.55pt; text-align:justify; text-indent:-68.55pt; widows:0">
+			<span style="font-family:黑体; font-size:15pt; font-weight:bold">1<span style="color:#0000ff; font-family:宋体; font-size:12pt">（请留出一个汉字的空间,下同）</span> 
+				引言（或绪论）</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt; font-weight:bold">（可作为正文第1章标题，用小3</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt; font-weight:bold">号</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt; font-weight:bold">黑</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt; font-weight:bold">体</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt; font-weight:bold">，加粗，并留出上下间距为：段前0.5行，段后0.5行）</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+			<span style="font-family:黑体; font-size:12pt; font-weight:bold">1．1
+			</span><span
+				style="color:#0000ff; font-family:黑体; font-size:12pt; font-weight:bold">
+				××××××</span><span
+				style="color:#ff0000; font-family:黑体; font-size:12pt; font-weight:bold">（作为正文2级标题，用小</span><span
+				style="color:#ff0000; font-family:黑体; font-size:12pt; font-weight:bold">4号</span><span
+				style="color:#ff0000; font-family:黑体; font-size:12pt; font-weight:bold">黑</span><span
+				style="color:#ff0000; font-family:黑体; font-size:12pt; font-weight:bold">体</span><span
+				style="color:#ff0000; font-family:黑体; font-size:12pt; font-weight:bold">，加粗）</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">×××××××××（小</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">4号宋体</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">）××××××…………</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+			<span style="font-family:黑体; font-size:12pt">1.1.1 </span><span
+				style="color:#0000ff; font-family:黑体; font-size:12pt"> ××××</span><span
+				style="color:#ff0000; font-family:黑体; font-size:12pt">（作为正文3级标题，用小</span><span
+				style="color:#ff0000; font-family:黑体; font-size:12pt">4号</span><span
+				style="color:#ff0000; font-family:黑体; font-size:12pt">黑</span><span
+				style="color:#ff0000; font-family:黑体; font-size:12pt">体</span><span
+				style="color:#ff0000; font-family:黑体; font-size:12pt">，不加粗）</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt 26.9pt; orphans:0; text-align:justify; text-indent:24pt; widows:0">
+			<span style="font-family:宋体; font-size:12pt">×××××××××（小</span><span
+				style="font-family:Calibri; font-size:12pt">4</span><span
+				style="font-family:宋体; font-size:12pt">号宋体</span><span
+				style="font-family:宋体; font-size:12pt">，行距</span><span
+				style="font-family:Calibri; font-size:12pt">1.5</span><span
+				style="font-family:宋体; font-size:12pt">倍）×××××××××××××××××××××××××××………</span>
+		</p>
+		<p
+			style="font-size:15pt; line-height:150%; margin:7.8pt 0pt 7.8pt 41.1pt; orphans:0; padding-left:94.6pt; text-align:justify; text-indent:-94.6pt; widows:0">
+			<span style="font-family:黑体; font-size:15pt; font-weight:bold">2 
+				×××××××</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt; font-weight:bold">（作为正文第2章标题，用小3</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt; font-weight:bold">号</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt; font-weight:bold">黑</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt; font-weight:bold">体</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt; font-weight:bold">，加粗，并留出上下间距为：段前0.5行，段后0.5行）</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt 26.9pt; orphans:0; text-align:justify; text-indent:24pt; widows:0">
+			<span style="font-family:宋体; font-size:12pt">×××××××××（小</span><span
+				style="font-family:Calibri; font-size:12pt">4</span><span
+				style="font-family:宋体; font-size:12pt">号宋体</span><span
+				style="font-family:宋体; font-size:12pt">）×××××××××××××××××××××××××××××××××××………</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt 26.9pt; orphans:0; text-align:justify; text-indent:24pt; widows:0">
+			<span style="font-family:Calibri; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt 26.9pt; orphans:0; text-align:justify; text-indent:24pt; widows:0">
+			<span style="font-family:Calibri; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt 26.9pt; orphans:0; text-align:justify; text-indent:24pt; widows:0">
+			<span style="font-family:Calibri; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt 26.9pt; orphans:0; text-align:justify; text-indent:24pt; widows:0">
+			<span style="font-family:Calibri; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="line-height:18pt; margin:0pt 0pt 10pt 26.9pt; orphans:0; text-align:justify; text-indent:24pt; widows:0">
+			<span style="font-family:Calibri; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">注：1．正文中</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt; font-weight:bold">表格</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">与</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt; font-weight:bold">插图</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">的字体一律用5</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">号宋体</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">；</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:115%; margin:0pt 0pt 10pt 23.95pt; orphans:0; padding-left:21pt; text-align:justify; text-indent:-21pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">2．正文各页的格式请以此页为标准复制，</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt; font-weight:bold">页脚</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">中的页码用阿拉伯数字表示（本文档的页码已设置成自动格式）；</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">3．为保证打印效果，学生在打印前，请将全文字体的颜色统一设置成</span><span
+				style="font-family:宋体; font-size:12pt; font-weight:bold">黑色</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">。</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:21pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:16pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+			<br style="page-break-before:always; clear:both" />
+			<span
+				style="color:#0000ff; font-family:黑体; font-size:15pt; font-weight:normal">                     
+			</span><span style="font-family:黑体; font-size:15pt; font-weight:bold">参
+				考 文 献</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt; font-weight:bold">（小3</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt; font-weight:bold">号</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt; font-weight:bold">黑</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt; font-weight:bold">体</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt; font-weight:bold">，加粗，居中）</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:28.5pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+			<span style="font-family:宋体; font-size:12pt">[1]  </span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">×××××××（小</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">4号宋体，行距</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">1.5倍</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">）</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">×××××</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+			<span style="font-family:宋体; font-size:12pt">[2]  </span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">××××××××××××××××××××××××××××××××××××××××××</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+			<span style="font-family:宋体; font-size:12pt">[3]  </span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">××××××××××××××××××××××</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">…………</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:28.5pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">…………</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:28.5pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:28.5pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:28.5pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:28.5pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; text-indent:28.5pt; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:15pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+			<br style="page-break-before:always; clear:both" />
+			<span style="color:#0000ff; font-family:黑体; font-size:15pt">                     
+			</span><span style="font-family:黑体; font-size:15pt; font-weight:bold">致 
+				谢</span><span style="color:#ff0000; font-family:黑体; font-size:15pt">（小3</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt">号</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt">黑</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt">体</span><span
+				style="color:#ff0000; font-family:黑体; font-size:15pt">，加粗，居中）</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+			<span style="color:#0000ff; font-family:宋体; font-size:12pt">×××××××××（小</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">4号宋体，1.5倍行距）</span><span
+				style="color:#0000ff; font-family:宋体; font-size:12pt">×××××××××××××××××××××…………</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+			<span style="font-family:宋体; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:12pt; line-height:150%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+			<span style="font-family:宋体; font-size:12pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:10pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+			<span style="font-family:Calibri; font-size:10pt">&#xa0;</span>
+		</p>
+		<p
+			style="font-size:10.5pt; line-height:115%; margin:0pt 0pt 10pt; orphans:0; text-align:justify; widows:0">
+			<span style="font-family:Calibri; font-size:10.5pt">&#xa0;</span>
+		</p>
+		<p style="display:none;"><span>1,576,461,317,858</span></p>
+	</div>
+</body>
+</html>

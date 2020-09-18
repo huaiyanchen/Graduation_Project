@@ -1,0 +1,3 @@
+python face.py --model data/s3fd_convert.pth --path  CAMERA
+
+python girl-face-rec.py 1.dat 2.dat ./candidate-faces test1.jpg
